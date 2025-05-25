@@ -24,10 +24,10 @@
 
 ## 🖼 Preview
 
-![Maya Interface Overview](https://i.ytimg.com/vi/TpNBLQTUQ8w/maxresdefault.jpg)  
+![Maya Interface Overview](https://static.filehorse.com/screenshots-mac/photo-and-design/autodesk-maya-mac-screenshot-01.png)  
 *Main Autodesk Maya interface with workspace layout*
 
-![Modeling in Progress](https://framerusercontent.com/images/IYQCiQPfqKVPm7tUaWS7xagI.jpg)  
+![Modeling in Progress](https://img.informer.com/screenshots_mac/38/38339_1.jpg)  
 *Active 3D modeling session with tools and references*
 
 ![Animation Timeline & Shading](https://miro.medium.com/v2/resize:fit:1400/1*uN09T2NkQFtpUUKD0TWprQ.jpeg)  
